@@ -53,6 +53,9 @@ const Home = () => {
                     value={userInput}
                     onChange={onUserChangedText}/>
           </div>
+          <div className="output-container">
+            <p>{apiOutput}</p>
+          </div>
           <div className="prompt-buttons">
             <a className="generate-button" onClick={callGenerateEndpoint}>
               <div className="generate">
