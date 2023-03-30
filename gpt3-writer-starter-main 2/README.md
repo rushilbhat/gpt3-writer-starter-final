@@ -1,3 +1,5 @@
-# buildspace 
+# Ask Marcus Aurelius
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+This is an AI-powered web application designed to generate text using GPT-3 by OpenAI. The application leverages the timeless wisdom of Marcus Aurelius to provide users with inner peace and clarity. This project was built as part of buildspace's AI Writer program. 
+
+https://ask-marcus-aurelius-production.up.railway.app/
